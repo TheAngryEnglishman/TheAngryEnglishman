@@ -52,22 +52,10 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on [![LinkedI
 
 # GitHub high scores
 
-<table>
-<tr>
-<td>
-  
 <a href="https://github.com/TheAngryEnglishman/Landing_Zone">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="400"/>
 </a>
-  
-</pre>
-</td>
-<td>
-  
+
 <a href="https://github.com/TheAngryEnglishman/make-love-not-war">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true" height="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true" height="400" />
 </a>
-  
-</pre>
-</td>
-</table>

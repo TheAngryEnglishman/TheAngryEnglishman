@@ -65,4 +65,4 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on [![LinkedI
 &show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harry's GitHub Stats" />
 </a>
 
-[![harry's github](https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman)](https://github.com/anuraghazra/github-readme-stats)
+![harry'sGitHub stats](https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true)

@@ -32,7 +32,7 @@
 
 </pre>
 </td>
-<td>
+</table>
 
 # hello there !!
 

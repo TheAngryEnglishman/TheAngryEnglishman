@@ -34,8 +34,12 @@
 </td>
 </table>
 
-# hello there !!
+# Hello there!!
 
 _Genral Kenobi_
 
 My Name is Harry, I am a full-stack web developer living in Hamburg, soon to be moving to Berlin. Here is my stuff, I hope you enjoy my work!
+
+#Technologies
+
+![javaScript](https://img.shields.io/badge/JavaScript-ES6-green) ![html](https://img.shields.io/badge/HTML-HTML5-green) ![css](https://img.shields.io/badge/CSS-CSS3-green) ![Node](https://img.shields.io/badge/Node-17.2.0-green) ![Express](https://img.shields.io/badge/Express-4.17.1-green)

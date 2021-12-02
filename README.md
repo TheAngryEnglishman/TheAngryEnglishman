@@ -34,7 +34,7 @@
 </td>
 </table>
 
-# Hello there!! <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="50" width="50"/>
+# Hello there!! <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/deathstar.png" height="50" width="50"/>
 
 _General Kenobi_
 

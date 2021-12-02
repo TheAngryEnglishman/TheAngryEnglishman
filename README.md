@@ -52,19 +52,9 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on [![LinkedI
 
 # GitHub high scores
 
-<p float="left">
-<a href="https://github.com/TheAngryEnglishman/Landing_Zone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="200"/>
+<a href="https://github.com/TheAngryEnglishman/Text-Particles>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-
-<a href="https://github.com/TheAngryEnglishman/make-love-not-war">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true"  height="200"/>
-</a>
-</p>
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="harrys's GitHub Stats" />
+<a href="https://github.com/TheAngryEnglishman/Text-Particles">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harry's GitHub Stats" />
 </a>

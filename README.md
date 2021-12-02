@@ -34,7 +34,7 @@
 </td>
 </table>
 
-# Hello there!!<img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/deathstar.png" height="30" width="30"/> <div style="text-align: right"> your-text-here <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="30" width="30"/> <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="30" width="30"/></div>
+# Hello there!!<img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/deathstar.png" height="30" width="30"/> <div style="text-align: right"><img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="30" width="30"/> <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="30" width="30"/></div>
 
 _General Kenobi_
 

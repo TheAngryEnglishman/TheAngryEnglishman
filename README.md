@@ -34,7 +34,7 @@
 </td>
 </table>
 
-# Hello there!!
+# Hello there!! <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="50" width="50"/>
 
 _General Kenobi_
 
@@ -56,6 +56,7 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on [![LinkedI
 <a href="https://github.com/TheAngryEnglishman/Landing_Zone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="200" width="40%"/>
 </a>
+
 <a href="https://github.com/TheAngryEnglishman/make-love-not-war">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true"  height="200" width="60%"/>
 </a>

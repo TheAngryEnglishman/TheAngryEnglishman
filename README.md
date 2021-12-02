@@ -54,4 +54,4 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on [![LinkedI
 
 ![harry'sGitHub stats](https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact)](https://github.com/TheAngryEnglishman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact)](https://github.com/TheAngryEnglishman/github-readme-stats&theme=dark&show_icons=true)

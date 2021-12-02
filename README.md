@@ -34,7 +34,7 @@
 </td>
 </table>
 
-# Hello there!! &nbsp; &nbsp;<img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/deathstar.png" height="30" width="30"/> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="20" width="20"/> <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="20" width="20"/> <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="20" width="20"/>
+# Hello There!! &nbsp; &nbsp;<img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/deathstar.png" height="30" width="30"/> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="20" width="20"/> <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="20" width="20"/> <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/xwing.png" height="20" width="20"/>
 
 _General Kenobi_
 
@@ -54,10 +54,10 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on [![LinkedI
 
 <p float="left">
 <a href="https://github.com/TheAngryEnglishman/Landing_Zone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="200" width="40%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true" height="200"/>
 </a>
 
 <a href="https://github.com/TheAngryEnglishman/make-love-not-war">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true"  height="200" width="60%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true"  height="200"/>
 </a>
 </p>

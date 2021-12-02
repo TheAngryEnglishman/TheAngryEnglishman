@@ -33,9 +33,9 @@
 </pre>
 </td>
 </table>
-<pre>
-# Hello there!!    <img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/deathstar.png" height="30" width="30"/>
-</pre>
+
+# Hello there!!<pre> </pre><img align="center" src="https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/deathstar.png" height="30" width="30"/>
+
 _General Kenobi_
 
 My Name is Harry, I am a full-stack web developer living in Hamburg, soon to be moving to Berlin. Here is my stuff, I hope you enjoy my work!

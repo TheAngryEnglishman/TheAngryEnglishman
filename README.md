@@ -47,5 +47,5 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on[![LinkedIn
 
 ![javaScript](https://img.shields.io/badge/JavaScript-ES6-green) ![html](https://img.shields.io/badge/HTML-HTML5-green) ![css](https://img.shields.io/badge/CSS-CSS3-green) ![Node](https://img.shields.io/badge/Node-17.2.0-green) ![Express](https://img.shields.io/badge/Express-4.17.1-green) ![Sockets](https://img.shields.io/badge/Scokets-4.4.0-green) ![Handlebars](https://img.shields.io/badge/Handlebars-4.7.7-green) ![Vue](https://img.shields.io/badge/Vue-2.6.14-green) ![React](https://img.shields.io/badge/React-17.0-green) ![SQL](https://img.shields.io/badge/SQL-2019-purple) ![AWS](https://img.shields.io/badge/Amazon-webServices-purple) ![Python](https://img.shields.io/badge/Python-3.10.0-blue)
 
-[1.2]: https://www.kindpng.com/free/linkedin-logo-white/
+[1.2]: https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/linkedin-32.png
 [1]: https://www.linkedin.com/in/harry-whorlow-b63015227/

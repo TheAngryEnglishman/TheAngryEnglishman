@@ -50,8 +50,8 @@ _Check out my website [Here](https://harrywhorlow.io) or follow me on [![LinkedI
 [1.2]: https://github.com/TheAngryEnglishman/TheAngryEnglishman/blob/main/linkedin.png
 [1]: https://www.linkedin.com/in/harry-whorlow-b63015227/
 
-# gitHub high scores
+# GitHub high scores
 
-![harry'sGitHub stats](https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true)
+![harry'sGitHub stats](https://github-readme-stats.vercel.app/api?username=TheAngryEnglishman&theme=dark&show_icons=true | height=400)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAngryEnglishman&layout=compact&theme=dark&show_icons=true)](https://github.com/TheAngryEnglishman/github-readme-stats)

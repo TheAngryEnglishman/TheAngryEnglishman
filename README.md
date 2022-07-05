@@ -38,7 +38,7 @@
 
 _General Kenobi_
 
-My Name is Harry, I am a full-stack web developer living in Hamburg, soon to be moving to Berlin. Here is my stuff, I hope you enjoy my work!
+My Name is Harry, I am a full-stack web developer living in Berlin. Here is my stuff, I hope you enjoy my work!
 <br  />
 <br  />
 _Check out my website <a href="https://www.harrywhorlow.io/" style="color:#2bbc8a" target="blank">here</a> or follow me on [![LinkedIn][1.2]][1]._

@@ -2,27 +2,7 @@
 <tr>
 <td>
   
-<a href="https://github.com/TheAngryEnglishman/Landing_Zone">
-  <img src="https://github.com/harry-whorlow/Landing_Zone/blob/main/landing-zone.gif" width="200" />
-</a>
-  
-</pre>
-</td>
-<td>
-  
-<a href="https://github.com/TheAngryEnglishman/make-love-not-war">
-  <img src="https://github.com/harry-whorlow/make-love-not-war/blob/main/make-love-not-war.gif" width="200" />
-</a>
-  
-</pre>
-</td>
-<td>
-  
-<a href="https://github.com/TheAngryEnglishman/petition">
-   <img src="https://github.com/harry-whorlow/petition/blob/main/petition.gif" width="200" />
-</a>
 
-</pre>
 </td>
 <td>
   

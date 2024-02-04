@@ -1,2 +1,2 @@
 
-   <img src="https://github.com/harry-whorlow/harry-whorlow/blob/main/TESTEST.png" width="200" />
+   <img src="https://github.com/harry-whorlow/harry-whorlow/blob/main/TESTEST.png" />
